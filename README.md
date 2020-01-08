@@ -5,3 +5,4 @@ generowanie podsumowania miesiąca w formacie xlsx
 https://xlsxwriter.readthedocs.io/tutorial01.html
 
 ## Setup
+pip3 install xlsxwriter
